@@ -1,5 +1,5 @@
 
-# Izing Pro
+# Izing FREE
 
 Um sistema para gestão de atendimento multicanais centralizado.
 
